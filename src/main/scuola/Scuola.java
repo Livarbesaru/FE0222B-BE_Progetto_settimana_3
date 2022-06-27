@@ -3,8 +3,10 @@ package main.scuola;
 import java.io.File;
 import java.io.IOException;
 import java.text.DecimalFormat;
+import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import org.apache.commons.io.FileUtils;
 
@@ -80,16 +82,11 @@ public class Scuola implements ScuolaInt{
 	 * */
 	@Override
 	public String getStudenteMigliore() {
-		Studente studenteMigliore=getStudentiLista().get(0);
-		for(Studente studente:getStudentiLista()) {
-			if (studente.mediaVoto()>studenteMigliore.mediaVoto()) {
-				studenteMigliore = studente;
-			}
-		}
+		Studente studenteMigliore= getStudentiLista().stream().max(Comparator.comparingDouble(Studente::mediaVoto)).get();
 		return getStudente(studenteMigliore);
 	}
 
-	/*Metodo utilizzato per salavare le informazione di tutti gli studenti della scuola su di un file 
+	/*Metodo utilizzato per salvare le informazione di tutti gli studenti della scuola su di un file 
 	 * */
 	@Override
 	public void salvaStudenti(File file) {

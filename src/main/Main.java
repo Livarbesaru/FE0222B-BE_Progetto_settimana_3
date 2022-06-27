@@ -22,6 +22,8 @@ public class Main {
 		Scuola scuola1=new Scuola(generaStudenti());
 		Scuola scuola2=new Scuola(generaStudenti());
 		
+		Logger.info("\n"+"========Studente Migliore========="+"\n"+scuola1.getStudenteMigliore());
+		
 		File file=new File("src/main/studenti/studenti.txt");
 		scuola1.salvaStudenti(file);
 		
