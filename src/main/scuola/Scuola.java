@@ -17,7 +17,7 @@ import main.scuola.studente.Studente;
 public class Scuola implements ScuolaInt{
 	private static final DecimalFormat df=new DecimalFormat("0.00");
 	
-	List<Studente> studenti;
+	private List<Studente> studenti;
 	
 	public Scuola(List<Studente> studenti){
 		this.studenti=studenti;
