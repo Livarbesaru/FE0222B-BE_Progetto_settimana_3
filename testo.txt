@@ -1,0 +1,12 @@
+Creare un'applicazione che consenta di simulare una Scuola, con le seguenti caratteristiche:
+
+Studente (id, nome, cognome, genere, voti)
+dove voti è un hash map che possiede come chiavi i nomi delle materie e come valori le liste di voti relativi.
+metodi: 
+mediaVotoMateria( materia ), votoMiglioreMateria( materia ), promosso() -> restituisce false se 4 diverse materie danno una media voto < 6
+Creare una classe Scuola che accetta una lista di studenti.
+La scuola avrà i metodi:
+getPromossi(), getStudenti() -> restituisce le info di tutti gli studenti, getStudenteMigliore(), salvaStudenti( file ) -> stampa la lista degli studenti con le loro informazioni su un file.
+Utilizza stream e funzioni lambda dove possibile per eseguire le varie operazioni.
+All'interno del main creare due scuole differenti, ognuna con 5 studenti.
+Creare due thread, in cui rispettivamente ogni 2 secondi vengono stampate le informazioni di uno studente, nel primo thread della prima scuola, nel secondo thread della seconda scuola.

@@ -1,0 +1,56 @@
+
+=============Studente: ilu unumet =============
+Genere:Female
+Voti:
+Media voto: 6,88
+Materia: Matematica Voto medio: 7,45 |---> Voti materia: |8.28|6.90|8.37|9.03|4.65 |---> Voto piu' alto:9,04
+Materia: Inglese Voto medio: 6,53 |---> Voti materia: |5.81|9.39|4.75|5.67|7.01 |---> Voto piu' alto:9,39
+Materia: EduFisica Voto medio: 6,25 |---> Voti materia: |7.50|4.17|6.40|7.71|5.43 |---> Voto piu' alto:7,72
+Materia: Informatica Voto medio: 6,79 |---> Voti materia: |7.96|8.94|4.09|8.25|4.71 |---> Voto piu' alto:8,94
+Materia: Italiano Voto medio: 6,20 |---> Voti materia: |4.38|8.16|7.66|6.77|4.00 |---> Voto piu' alto:8,16
+Materia: Storia Voto medio: 8,04 |---> Voti materia: |5.43|8.82|7.40|8.65|9.89 |---> Voto piu' alto:9,89
+Promosso: true
+=============Studente: acimot aqi =============
+Genere:Male
+Voti:
+Media voto: 6,90
+Materia: Matematica Voto medio: 7,30 |---> Voti materia: |5.88|8.54|6.34|5.81|9.92 |---> Voto piu' alto:9,92
+Materia: Inglese Voto medio: 5,61 |---> Voti materia: |5.39|4.51|4.08|5.13|8.92 |---> Voto piu' alto:8,93
+Materia: EduFisica Voto medio: 7,02 |---> Voti materia: |7.95|9.03|4.79|5.71|7.58 |---> Voto piu' alto:9,04
+Materia: Informatica Voto medio: 8,21 |---> Voti materia: |6.33|9.76|9.93|9.80|5.23 |---> Voto piu' alto:9,94
+Materia: Italiano Voto medio: 5,89 |---> Voti materia: |4.97|8.21|4.22|6.62|5.39 |---> Voto piu' alto:8,21
+Materia: Storia Voto medio: 7,36 |---> Voti materia: |7.61|7.27|5.71|7.52|8.64 |---> Voto piu' alto:8,65
+Promosso: true
+=============Studente: olilage aciru =============
+Genere:Female
+Voti:
+Media voto: 7,17
+Materia: Matematica Voto medio: 7,77 |---> Voti materia: |5.24|8.99|7.19|9.94|7.46 |---> Voto piu' alto:9,95
+Materia: Inglese Voto medio: 5,88 |---> Voti materia: |5.94|8.30|4.51|5.15|5.48 |---> Voto piu' alto:8,30
+Materia: EduFisica Voto medio: 7,45 |---> Voti materia: |7.14|9.89|7.73|8.06|4.38 |---> Voto piu' alto:9,90
+Materia: Informatica Voto medio: 7,66 |---> Voti materia: |8.04|9.44|6.14|5.87|8.77 |---> Voto piu' alto:9,44
+Materia: Italiano Voto medio: 6,39 |---> Voti materia: |4.31|7.22|9.43|6.92|4.07 |---> Voto piu' alto:9,43
+Materia: Storia Voto medio: 7,85 |---> Voti materia: |7.81|9.33|6.80|8.70|6.59 |---> Voto piu' alto:9,33
+Promosso: true
+=============Studente: evusuqosu afacotufa =============
+Genere:Female
+Voti:
+Media voto: 6,96
+Materia: Matematica Voto medio: 7,34 |---> Voti materia: |4.63|9.95|7.87|7.18|7.03 |---> Voto piu' alto:9,96
+Materia: Inglese Voto medio: 7,16 |---> Voti materia: |9.06|4.45|6.20|6.67|9.38 |---> Voto piu' alto:9,38
+Materia: EduFisica Voto medio: 6,88 |---> Voti materia: |8.62|5.26|7.14|9.26|4.10 |---> Voto piu' alto:9,26
+Materia: Informatica Voto medio: 6,31 |---> Voti materia: |5.29|4.71|6.05|8.28|7.22 |---> Voto piu' alto:8,28
+Materia: Italiano Voto medio: 7,62 |---> Voti materia: |8.71|7.06|7.21|5.78|9.30 |---> Voto piu' alto:9,31
+Materia: Storia Voto medio: 6,46 |---> Voti materia: |5.07|4.34|8.27|6.73|7.85 |---> Voto piu' alto:8,28
+Promosso: true
+=============Studente: idiquvu agodureno =============
+Genere:Female
+Voti:
+Media voto: 7,06
+Materia: Matematica Voto medio: 5,65 |---> Voti materia: |7.77|6.74|5.15|4.10|4.46 |---> Voto piu' alto:7,77
+Materia: Inglese Voto medio: 7,66 |---> Voti materia: |9.54|8.59|4.54|8.40|7.21 |---> Voto piu' alto:9,55
+Materia: EduFisica Voto medio: 7,03 |---> Voti materia: |4.80|4.73|9.63|7.93|8.00 |---> Voto piu' alto:9,63
+Materia: Informatica Voto medio: 6,57 |---> Voti materia: |6.08|6.97|9.37|4.32|6.09 |---> Voto piu' alto:9,37
+Materia: Italiano Voto medio: 8,95 |---> Voti materia: |8.24|9.93|7.29|9.76|9.51 |---> Voto piu' alto:9,94
+Materia: Storia Voto medio: 6,50 |---> Voti materia: |7.76|7.73|6.46|6.03|4.48 |---> Voto piu' alto:7,77
+Promosso: true
